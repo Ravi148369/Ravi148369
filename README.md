@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-<h3 align="left">Connect with me:[Gmail](mailto:rp789742@gmail.com)</h3>
+- 📫 How to reach me **[Gmail](mailto:rp789742@gmail.com)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
